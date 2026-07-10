@@ -19,4 +19,16 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
