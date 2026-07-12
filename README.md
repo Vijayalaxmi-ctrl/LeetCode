@@ -37,6 +37,7 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
+| [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## String
 |  |
 | ------- |
@@ -46,4 +47,12 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
