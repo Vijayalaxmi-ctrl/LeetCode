@@ -29,6 +29,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
@@ -60,4 +61,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
