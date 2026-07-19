@@ -14,6 +14,7 @@ Automatically syncing code from LeetCode to GitHub
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
@@ -54,6 +55,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
@@ -67,4 +69,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
