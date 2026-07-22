@@ -56,11 +56,13 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0001-two-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
@@ -78,5 +80,6 @@ Automatically syncing code from LeetCode to GitHub
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
