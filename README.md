@@ -63,6 +63,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
+| [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 ## Sorting
 |  |
 | ------- |
@@ -94,4 +95,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0014-longest-common-prefix) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
