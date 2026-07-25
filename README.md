@@ -64,6 +64,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +100,5 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
