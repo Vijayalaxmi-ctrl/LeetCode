@@ -31,6 +31,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0007-reverse-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -74,6 +75,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -128,6 +130,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
