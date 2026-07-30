@@ -31,6 +31,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0007-reverse-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -77,6 +78,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
