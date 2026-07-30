@@ -75,6 +75,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
@@ -146,6 +148,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
