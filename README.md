@@ -93,6 +93,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -146,6 +147,7 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 ## Matrix
 |  |
 | ------- |
@@ -161,6 +163,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 ## Counting Sort
 |  |
 | ------- |
