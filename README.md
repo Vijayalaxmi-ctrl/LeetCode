@@ -94,6 +94,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -155,6 +156,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
