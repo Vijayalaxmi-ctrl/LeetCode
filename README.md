@@ -30,6 +30,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -75,6 +76,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
