@@ -74,6 +74,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0016-3sum-closest](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
@@ -123,6 +124,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,4 +180,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
