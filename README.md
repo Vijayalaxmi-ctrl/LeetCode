@@ -18,6 +18,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
@@ -199,4 +201,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
