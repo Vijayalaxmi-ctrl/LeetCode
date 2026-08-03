@@ -16,6 +16,7 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -82,6 +83,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
+| [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
