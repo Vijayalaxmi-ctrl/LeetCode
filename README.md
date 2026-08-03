@@ -20,6 +20,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
 ## Binary Tree
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
+| [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -207,4 +209,9 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
