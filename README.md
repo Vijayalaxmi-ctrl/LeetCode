@@ -19,6 +19,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -89,6 +90,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -152,6 +154,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Trie
@@ -201,6 +204,7 @@ Automatically syncing code from LeetCode to GitHub
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -221,4 +225,12 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
