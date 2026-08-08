@@ -117,6 +117,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1572-matrix-diagonal-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
