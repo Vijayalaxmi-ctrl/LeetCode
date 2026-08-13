@@ -1,16 +1,28 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
+        int j = -1;
         for(int i = 0; i < nums.length ; i++) {
-            if(nums[i] != 0) {
-                arr.add(nums[i]);
+            if(nums[i] == 0) {
+                j = i;
+                break;
             }
         }
-        for(int i = 0 ; i < arr.size(); i++) {
-            nums[i] = arr.get(i);
+
+        if(j == -1) {
+            return;
         }
-        for(int i = arr.size(); i < nums.length ; i++) {
-            nums[i] = 0;
+        
+        for(int i = j+1 ; i < nums.length ; i++) {
+            if(nums[i] != 0) {
+                swap(nums,i,j);
+                j++;
+            }
         }
+    }
+
+    public void swap(int[] arr, int i , int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
     }
 }
