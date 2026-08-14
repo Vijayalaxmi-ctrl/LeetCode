@@ -1,9 +1,19 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int xor = 0;
-        for(int i = 0 ; i < nums.length ; i++) {
-            xor ^= nums[i];
+        int n = nums.length;  //3
+        
+        for(int i = 0; i < n; i++) {
+            
+            int count = 0;
+            int num = nums[i];
+            for(int j = 0; j < n ; j++) {
+                if(nums[j] == num) {
+                    count++;
+                }
+            }
+            if(count == 1) 
+            return num;
         }
-        return xor;
+        return -1; 
     }
 }
