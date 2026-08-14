@@ -97,6 +97,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
