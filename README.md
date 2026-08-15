@@ -93,6 +93,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0015-3sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -165,6 +167,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0016-3sum-closest](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
@@ -247,4 +250,12 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
