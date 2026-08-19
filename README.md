@@ -61,6 +61,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0001-two-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -97,6 +98,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0066-plus-one](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
@@ -274,4 +276,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
