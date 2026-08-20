@@ -65,6 +65,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0073-set-matrix-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -109,6 +110,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0136-single-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -156,6 +158,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0018-4sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -236,6 +239,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 ## Counting Sort
@@ -290,6 +294,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 ## Union-Find
 |  |
 | ------- |
