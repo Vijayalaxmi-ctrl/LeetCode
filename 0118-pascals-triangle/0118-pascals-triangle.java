@@ -1,22 +1,23 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> ans = new ArrayList<>();
-        for(int row = 1 ; row <= numRows ; row++) {
-            List<Integer> list = new ArrayList<>();
-            for(int col = 1; col <= row; col++) {
-                list.add(funNCR(row-1,col-1));
-            }
-            ans.add(list);
-        }
-        return ans;
-    }
+        List<List<Integer>> res = new ArrayList<>();
+        for(int i = 1 ; i <= numRows;i++) {
+            res.add(pascalRow(i));
 
-    public int funNCR(int n, int r) {
-        int res=1;
-        for(int i = 0; i < r ; i++) {
-            res=res*(n-i);
-            res = res/(i+1);
         }
         return res;
+        
     }
+
+    public static List<Integer> pascalRow(int n) {
+        List<Integer> list = new ArrayList<>();
+        int ans = 1;
+        list.add(ans);
+        for(int i = 1; i < n ; i++ ) {
+        ans = ans * (n-i);
+        ans = ans/i;
+        list.add(ans);
+        }
+    return list;
+}
 }
