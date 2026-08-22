@@ -1,21 +1,40 @@
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
-        Set<List<Integer>> set = new HashSet<>();
+        List<List<Integer>> ans = new ArrayList<>();
+        Arrays.sort(nums);
         int n = nums.length;
-        for(int i = 0; i < n;i++) {
-            for(int j = i + 1; j < n ; j++) {
-                HashSet<Integer> hash = new HashSet<>()
-;               for( int k = j+1 ; k < n ; k++) {
-                    long req = (long) target - nums[i] - nums[j] - nums[k];
-                        if(req >= Integer.MIN_VALUE && req <= Integer.MAX_VALUE && hash.contains((int) req)) {
-                            List<Integer> temp = Arrays.asList(nums[i] , nums[j] , nums[k] , (int) req);
-                            Collections.sort(temp);
-                            set.add(temp);
+        for(int i = 0 ; i < n ; i++) {
+            if(i>0 && nums[i] == nums[i-1]) {
+                    continue;
+                }
+            for(int j = i + 1 ; j < n ;j++) {
+                if(j != i+ 1 && nums[j] == nums[j-1]) {
+                    continue;
+                }
+                int k = j + 1;
+                int l = n - 1;
+                while(k < l) {
+                    long sum = (long) nums[i] + nums[j] + nums[k] + nums[l];
+                    if(sum == target) {
+                        List<Integer> ls = Arrays.asList(nums[i] , nums[j],nums[k] , nums[l]);
+                        ans.add(ls);
+                        k++;
+                        l--;
+                        while(k < l && nums[k] == nums[k-1]) {
+                            k++;
                         }
-                        hash.add(nums[k]);
-                }            
+                        while(k < l && nums[l] == nums[l + 1]) {
+                            l--;
+                        }
+
+                    }else if(sum > target) {
+                        l--;
+                    }else {
+                        k++;
+                    }
+                }
             }
         }
-        return new ArrayList<>(set);
+        return ans;
     }
 }
