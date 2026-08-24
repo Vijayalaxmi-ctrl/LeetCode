@@ -22,6 +22,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -118,6 +119,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -184,6 +186,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -305,4 +308,24 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
