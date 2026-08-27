@@ -23,6 +23,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
@@ -128,6 +129,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0704-binary-search](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
