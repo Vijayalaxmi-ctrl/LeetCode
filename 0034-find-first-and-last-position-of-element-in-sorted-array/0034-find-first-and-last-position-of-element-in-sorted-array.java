@@ -1,35 +1,43 @@
 class Solution {
     public int[] searchRange(int[] nums, int target) {
-        int[] ans = {-1,-1};
-        int start = search(nums, target, true);
-        int end = search(nums,target, false);
-        ans[0] = start;
-        ans[1] = end;
-        return ans;
+        int first = firstOcc(nums,target);
+        if (first == nums.length || nums[first] != target) {
+            return new int[] {-1,-1};
+        }
+        return new int[] {first,secondOcc(nums,target)-1};
     }
 
-    int search(int[] nums, int target, boolean occurance) {
-        int ans = -1;
-        int start = 0;
-        int end = nums.length - 1;
-
-        while(start <= end) {
-            int mid = start + (end - start)/ 2;
-
-            if(nums[mid] > target) {
-                end = mid - 1;
-            }else if(nums[mid] < target) {
-                start = mid + 1;
-            } else {
-                ans  = mid;
-
-                if(occurance) {
-                    end = mid - 1;
-                }else {
-                    start = mid + 1;
-                }
+    public int firstOcc(int[] arr, int target) {
+        int low = 0;
+        int high = arr.length - 1;
+        int ans = arr.length;
+        while(low <= high) {
+            int mid = low + (high - low)/2;
+            if(arr[mid] >= target) {
+                ans = mid;
+               
+                high = mid - 1;
+            }
+            else {
+                 low = mid + 1;
             }
         }
         return ans;
     }
-}
+     
+    public int secondOcc(int[] arr,int target) {
+        int low = 0; 
+        int high = arr.length -1;
+        int ans = arr.length;
+        while(low <= high) {
+            int mid = low + (high - low)/2;
+            if(arr[mid] > target) {
+                ans = mid ;
+                high = mid - 1;
+            } else {
+            low = mid +1;
+        }}
+        return ans;
+        }
+        
+    }
