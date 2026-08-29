@@ -15,7 +15,7 @@ class Solution {
                 }else {
                     low = mid + 1;
                 }
-            }else if(arr[high] >= arr[mid]) {
+            }else if(arr[low] >= arr[mid]) {
                 if(arr[mid] <= target && target <= arr[high]) {
                     low = mid + 1;
                 }else {
