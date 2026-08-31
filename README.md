@@ -30,6 +30,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0704-binary-search](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Tree
@@ -142,6 +143,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0989-add-to-array-form-of-integer) |
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
