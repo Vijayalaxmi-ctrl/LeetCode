@@ -21,12 +21,9 @@ class Solution {
             }
             else if(nums[mid] > nums[mid - 1]) {
                 low = mid+1;
-            }else if(nums[mid] > nums[mid+1]) {
-                high = mid - 1;
-            }
-            else {
+            }else 
                 high = mid-1;
-            }
+            
         }
     
     return -1;
