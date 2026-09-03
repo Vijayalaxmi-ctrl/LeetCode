@@ -34,6 +34,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1095-find-in-mountain-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Tree
 |  |
@@ -164,6 +165,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1480-running-sum-of-1d-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
