@@ -2,29 +2,58 @@ class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int n1 = nums1.length;
         int n2 = nums2.length;
-        int[] nums3 = new int[n1+n2];
-        int n3 = n1 + n2;
         int i = 0;
         int j = 0;
-        int k = 0;
-        while(i < n1 && j < n2) {
+        int n = n1 + n2;
+        int ind2 = n/2;
+        int ind1 = ind2-1;
+        int ind1el = -1;
+        int ind2el = -1;
+        int cnt = 0;
+        while (i < n1 && j < n2) {
             if(nums1[i] < nums2[j]) {
-                nums3[k] = nums1[i++];
-                k++;
-            }else {
-                nums3[k] = nums2[j++];
-                k++;
+                if(cnt == ind1) {
+                    ind1el = nums1[i];
+                }
+                if(cnt == ind2) {
+                    ind2el = nums1[i];
+                }
+                cnt++;
+                i++;
+            } else {
+                if(cnt == ind1) {
+                    ind1el = nums2[j];
+                }
+                if(cnt == ind2) {
+                    ind2el = nums2[j];
+                }
+                cnt++;
+                j++;
             }
-        }
-        while ( i < n1) {
-            nums3[k++] = nums1[i++];
+        } 
+        while (i < n1) {
+            if(cnt == ind1) {
+                ind1el = nums1[i];
+            }
+            if(cnt == ind2) {
+                ind2el = nums1[i];
+            }
+            cnt++;
+            i++;
         }
         while ( j < n2) {
-            nums3[k++] = nums2[j++];
+            if(cnt == ind1) {
+                ind1el = nums2[j];
+            }
+            if(cnt == ind2) {
+                ind2el = nums2[j];
+            }
+            cnt++;
+            j++;
         }
-        if (n3 % 2 == 1) {
-            return nums3[n3/2];
+        if(n%2==1) {
+            return ind2el;
         }
-        return ((double)nums3[n3/2] + nums3[(n3/2 )-1])/2;
+        return ((double) ind1el + ind2el) /2.0;
     }
 }
