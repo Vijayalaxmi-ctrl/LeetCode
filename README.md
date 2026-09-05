@@ -38,6 +38,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1901-find-a-peak-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -178,6 +179,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1854-maximum-population-year](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1854-maximum-population-year) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -271,6 +273,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1572-matrix-diagonal-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1901-find-a-peak-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
