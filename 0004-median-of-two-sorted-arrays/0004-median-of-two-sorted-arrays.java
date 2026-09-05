@@ -1,33 +1,30 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-
-        int[] merged = new int[nums1.length + nums2.length];
-
-        int i = 0, j = 0, k = 0;
-
-        while (i < nums1.length && j < nums2.length) {
-            if (nums1[i] <= nums2[j]) {
-                merged[k++] = nums1[i++];
-            } else {
-                merged[k++] = nums2[j++];
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int[] nums3 = new int[n1+n2];
+        int n3 = n1 + n2;
+        int i = 0;
+        int j = 0;
+        int k = 0;
+        while(i < n1 && j < n2) {
+            if(nums1[i] < nums2[j]) {
+                nums3[k] = nums1[i++];
+                k++;
+            }else {
+                nums3[k] = nums2[j++];
+                k++;
             }
         }
-
-        while (i < nums1.length) {
-            merged[k++] = nums1[i++];
+        while ( i < n1) {
+            nums3[k++] = nums1[i++];
         }
-
-        while (j < nums2.length) {
-            merged[k++] = nums2[j++];
+        while ( j < n2) {
+            nums3[k++] = nums2[j++];
         }
-
-        int n = merged.length;
-
-        if (n % 2 == 1) {      // Odd length
-            return merged[n / 2];
-        } else {               // Even length
-            return (merged[n / 2 - 1] + merged[n / 2]) / 2.0;
+        if (n3 % 2 == 1) {
+            return nums3[n3/2];
         }
+        return ((double)nums3[n3/2] + nums3[(n3/2 )-1])/2;
     }
 }
-   
