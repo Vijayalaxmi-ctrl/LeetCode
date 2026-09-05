@@ -22,6 +22,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -132,6 +133,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0162-find-peak-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -213,6 +215,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
@@ -260,6 +263,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0048-rotate-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0867-transpose-matrix) |
