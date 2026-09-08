@@ -81,6 +81,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0073-set-matrix-zeroes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +97,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0013-roman-to-integer](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0205-isomorphic-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
