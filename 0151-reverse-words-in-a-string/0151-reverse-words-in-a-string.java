@@ -1,10 +1,10 @@
 class Solution {
     public String reverseWords(String s) {
-        List<String> words = new ArrayList<>();
+        s = new StringBuilder(s).reverse().toString();
         int n = s.length();
-        int i = 0;
-        while(i<n) {
-            while(i < n && (s.charAt(i) == ' ')) {
+        String ans = "";
+        for(int i = 0; i < n ; i++) {
+            while(i<n && s.charAt(i) == ' ') {
                 i++;
             }
             if(i>=n) {
@@ -15,17 +15,13 @@ class Solution {
                 word += s.charAt(i);
                 i++;
             }
-            words.add(word);
-        }
-        Collections.reverse(words);
-
-        String result = "";
-        for(int j = 0 ; j < words.size() ; j++)  {
-            result += words.get(j);
-            if(j != words.size() - 1) {
-                result += " ";
+            word = new StringBuilder(word).reverse().toString();
+            if(ans.length() > 0) {
+                ans += " "+ word;
+            }else {
+                ans += word;
             }
         }
-        return result;
+        return ans;
     }
 }
