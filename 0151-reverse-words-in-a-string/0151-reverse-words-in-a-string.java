@@ -1,27 +1,41 @@
 class Solution {
     public String reverseWords(String s) {
-        s = new StringBuilder(s).reverse().toString();
-        int n = s.length();
-        String ans = "";
-        for(int i = 0; i < n ; i++) {
-            while(i<n && s.charAt(i) == ' ') {
-                i++;
+                // StringBuilder for final result
+        StringBuilder result = new StringBuilder();
+        
+        // Pointer starting from the end
+        int i = s.length() - 1;
+        
+        // Traverse from right to left
+        while (i >= 0) {
+            // Skip spaces
+            while (i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
-            if(i>=n) {
-                break;
+            
+            // If pointer goes out of bounds, break
+            if (i < 0) break;
+            
+            // Mark end of word
+            int end = i;
+            
+            // Move left until space or start of string
+            while (i >= 0 && s.charAt(i) != ' ') {
+                i--;
             }
-            String word = "";
-            while(i < n && s.charAt(i) != ' ') {
-                word += s.charAt(i);
-                i++;
+            
+            // Extract the word
+            String word = s.substring(i + 1, end + 1);
+            
+            // Add space before appending if result is not empty
+            if (result.length() > 0) {
+                result.append(" ");
             }
-            word = new StringBuilder(word).reverse().toString();
-            if(ans.length() > 0) {
-                ans += " "+ word;
-            }else {
-                ans += word;
-            }
+            
+            // Append word
+            result.append(word);
         }
-        return ans;
+        
+        return result.toString();
     }
 }
