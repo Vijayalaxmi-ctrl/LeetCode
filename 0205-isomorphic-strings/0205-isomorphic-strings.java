@@ -3,20 +3,23 @@ class Solution {
         if(s.length() != t.length()) {
             return false;
         }
-        HashMap<Character,Character> maps = new HashMap<>();
-        HashMap<Character,Character> mapt = new HashMap<>();
 
-        for(int i = 0; i < s.length() ; i++) {
-            char cs = s.charAt(i);
-            char ct = t.charAt(i);
-            if(maps.containsKey(cs) && maps.get(cs) != ct) {
-                return false;
+        HashMap<Character,Character> mp = new HashMap<>();
+        HashSet<Character> set = new HashSet<>();
+
+        for(int i = 0 ; i < s.length() ; i++) {
+            if(mp.containsKey(s.charAt(i))) {
+                if(mp.get(s.charAt(i)) != t.charAt(i)) {
+                    return false;
+                }
+            } else {
+                if(set.contains(t.charAt(i))) {
+                    return false;
+                }
+
             }
-            if(mapt.containsKey(ct) && mapt.get(ct) != cs) {
-                return false;
-            }
-            maps.put(cs,ct);
-            mapt.put(ct,cs);
+            mp.put(s.charAt(i),t.charAt(i));
+            set.add(t.charAt(i));
         }
         return true;
     }
