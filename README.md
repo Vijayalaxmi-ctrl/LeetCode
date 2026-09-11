@@ -98,6 +98,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0014-longest-common-prefix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -383,4 +384,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1021-remove-outermost-parentheses) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
