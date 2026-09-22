@@ -88,6 +88,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0242-valid-anagram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -153,6 +154,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
+| [0525-contiguous-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0566-reshape-the-matrix) |
@@ -269,6 +271,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1732-find-the-highest-altitude) |
