@@ -48,6 +48,7 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Math
 |  |
@@ -73,6 +74,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
