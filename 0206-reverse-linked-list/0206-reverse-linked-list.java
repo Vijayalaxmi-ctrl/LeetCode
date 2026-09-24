@@ -10,15 +10,19 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        
-        ListNode tail = head;
-        ListNode prev = null;
-        while(tail != null) {
-            ListNode next = tail.next;
-            tail.next = prev;
-            prev = tail;
-            tail = next;
+        ListNode temp = head;
+        Stack<Integer> st = new Stack<>();
+        while(temp != null) {
+            st.push(temp.val);
+            temp = temp.next;
+
         }
-        return prev;
+        temp = head ;
+        while (temp != null) {
+            temp.val= st.pop();
+            // st.pop();
+            temp = temp.next;
+        }
+        return head;
     }
 }
