@@ -50,6 +50,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
