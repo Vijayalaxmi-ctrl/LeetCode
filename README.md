@@ -49,6 +49,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0002-add-two-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -250,6 +251,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -322,6 +324,7 @@ Automatically syncing code from LeetCode to GitHub
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -406,6 +409,7 @@ Automatically syncing code from LeetCode to GitHub
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0493-reverse-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -438,4 +442,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
