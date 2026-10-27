@@ -10,28 +10,47 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        List<Integer> arr = new ArrayList<>();
-        ListNode temp = head;
-        while(temp != null) {
-            arr.add(temp.val);
-            temp = temp.next;
+        if(head == null || head.next == null) {
+            return head;
         }
-        Collections.sort(arr);
-        head = convert(arr);
-        return head;
+        ListNode middle = middle(head);
+        ListNode leftHead = head;
+        ListNode rightHead = middle.next;
+        middle.next = null;
+        leftHead = sortList(leftHead);
+        rightHead = sortList(rightHead);
+        return merge2(leftHead,rightHead);
     }
 
-    public ListNode convert(List<Integer> arr) {
-        if(arr.size() == 0) {
-            return null;
+    public ListNode middle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head.next;
+        while(fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        ListNode head = new ListNode(arr.get(0));
-        ListNode temp = head;
-        for(int i = 1;i<arr.size() ; i++) {
-            ListNode temp1 = new ListNode(arr.get(i));
-            temp.next = temp1;
-            temp = temp1;
+        return slow;
+    }
+
+    public ListNode merge2(ListNode list1, ListNode list2) {
+        ListNode dummy = new ListNode(-1);
+        ListNode temp = dummy;
+        while(list1!=null && list2 != null) {
+            if(list1.val < list2.val) {
+                temp.next = list1;
+                temp = list1;
+               list1 = list1.next;
+            }else {
+                temp.next = list2;
+                temp = list2;
+                list2 = list2.next;
+            }
         }
-        return head;
+        if(list1 != null) {
+            temp.next = list1;
+        }else {
+            temp.next = list2;
+        }
+        return dummy.next;
     }
 }
