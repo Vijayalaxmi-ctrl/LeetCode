@@ -224,6 +224,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1901-find-a-peak-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -448,6 +449,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0907-sum-of-subarray-minimums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -479,4 +481,5 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [2104-sum-of-subarray-ranges](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
