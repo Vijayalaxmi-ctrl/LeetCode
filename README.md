@@ -442,6 +442,7 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -471,6 +472,7 @@ Automatically syncing code from LeetCode to GitHub
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
