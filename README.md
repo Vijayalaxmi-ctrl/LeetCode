@@ -230,6 +230,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -252,6 +253,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -376,6 +378,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Greedy
 |  |
 | ------- |
