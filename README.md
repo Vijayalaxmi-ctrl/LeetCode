@@ -7,10 +7,12 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -119,6 +121,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -137,6 +140,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -231,6 +235,7 @@ Automatically syncing code from LeetCode to GitHub
 | [2104-sum-of-subarray-ranges](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
