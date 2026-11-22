@@ -1,15 +1,15 @@
 class Solution {
     public boolean checkString(String s) {
-        int flag =0;
-        for(int i = 1; i < s.length() ; i++) {
-            if(s.charAt(i) < s.charAt(i-1)){
-                flag = 1;
-                break;
+        int n = s.length() ; 
+        int lastApos = -1;
+        int firstBpos = n;
+        for(int i = 0; i < s.length() ; i++) {
+            if(s.charAt(i) == 'a') {
+                lastApos = i;
+            }else if(s.charAt(i) == 'b' && firstBpos == n) {
+                firstBpos = i;
             }
         }
-        if(flag == 1) {
-            return false;
-        }
-        return true;
+        return lastApos < firstBpos;
     }
 }
