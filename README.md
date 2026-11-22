@@ -140,6 +140,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1773-count-items-matching-a-rule](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Sliding Window
 |  |
