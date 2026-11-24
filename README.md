@@ -87,6 +87,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -148,6 +149,7 @@ Automatically syncing code from LeetCode to GitHub
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Array
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Automatically syncing code from LeetCode to GitHub
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -268,9 +271,11 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1291-sequential-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Number Theory
 |  |
 | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
