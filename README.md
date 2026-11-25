@@ -42,6 +42,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1539-kth-missing-positive-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Binary Tree
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -244,6 +246,7 @@ Automatically syncing code from LeetCode to GitHub
 | [3331-find-subtree-sizes-after-changes](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -520,4 +523,16 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
