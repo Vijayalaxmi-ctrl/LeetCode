@@ -537,4 +537,8 @@ Automatically syncing code from LeetCode to GitHub
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
