@@ -88,6 +88,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1352-product-of-the-last-k-numbers](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1512-number-of-good-pairs](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [3360-stone-removal-game](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -335,6 +336,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1920-build-array-from-permutation](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3360-stone-removal-game](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3360-stone-removal-game) |
 ## Prefix Sum
 |  |
 | ------- |
