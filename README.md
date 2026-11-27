@@ -248,6 +248,7 @@ Automatically syncing code from LeetCode to GitHub
 | [3411-maximum-subarray-with-equal-products](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -400,6 +401,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0509-fibonacci-number](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Greedy
 |  |
 | ------- |
@@ -407,6 +409,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0410-split-array-largest-sum](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Ternary Search
 |  |
 | ------- |
