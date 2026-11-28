@@ -249,6 +249,7 @@ Automatically syncing code from LeetCode to GitHub
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3934-smallest-unique-subarray) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3731-find-missing-elements](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3731-find-missing-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -370,6 +372,7 @@ Automatically syncing code from LeetCode to GitHub
 | [0023-merge-k-sorted-lists](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0451-sort-characters-by-frequency](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -410,6 +413,7 @@ Automatically syncing code from LeetCode to GitHub
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Vijayalaxmi-ctrl/LeetCode/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Ternary Search
 |  |
 | ------- |
